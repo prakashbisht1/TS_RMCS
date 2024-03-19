@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-19T18:05:56 IST" name="Default suite" finished-at="2024-03-19T18:07:04 IST" duration-ms="68915">
+    <groups>
+    </groups>
+    <test started-at="2024-03-19T18:05:56 IST" name="Default test" finished-at="2024-03-19T18:07:04 IST" duration-ms="68915">
+      <class name="test.SpinAndWinTest">
+        <test-method is-config="true" signature="browserSetupUsingConfigProperties()[pri:0, instance:test.SpinAndWinTest@932bc4a]" started-at="2024-03-19T18:05:56 IST" name="browserSetupUsingConfigProperties" finished-at="2024-03-19T18:05:56 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetupUsingConfigProperties -->
+        <test-method signature="Verify_Player_is_able_to_trigger_5oak_win()[pri:7, instance:test.SpinAndWinTest@932bc4a]" started-at="2024-03-19T18:05:56 IST" name="Verify_Player_is_able_to_trigger_5oak_win" finished-at="2024-03-19T18:06:33 IST" duration-ms="37158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Player_is_able_to_trigger_5oak_win -->
+        <test-method signature="Verify_Player_is_able_to_Gamble()[pri:8, instance:test.SpinAndWinTest@932bc4a]" started-at="2024-03-19T18:06:33 IST" name="Verify_Player_is_able_to_Gamble" finished-at="2024-03-19T18:06:48 IST" duration-ms="15143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Player_is_able_to_Gamble -->
+        <test-method signature="Verify_Player_is_able_to_trigger_freegames()[pri:9, instance:test.SpinAndWinTest@932bc4a]" started-at="2024-03-19T18:06:48 IST" name="Verify_Player_is_able_to_trigger_freegames" finished-at="2024-03-19T18:06:57 IST" duration-ms="9054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_Player_is_able_to_trigger_freegames -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.SpinAndWinTest@932bc4a]" started-at="2024-03-19T18:06:57 IST" name="tearDown" finished-at="2024-03-19T18:07:04 IST" duration-ms="7461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.SpinAndWinTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

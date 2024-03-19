@@ -1,0 +1,23 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+T
+$resources/testdata/config.properties,6\a\6a6db47e4283cd6e966699d5c5677c9e1ecb2660
+Q
+!src/main/java/utils/property.java,f\1\f1d476c736988e7a9c90cf189016a12e3b6558dc
+Q
+!src/main/java/utils/Selenium.java,0\c\0cac3b98f191b00d9d25e07e4ce814f15d62bd32
+O
+src/main/java/utils/Sikuli.java,b\c\bc4bd6e16becf7787b7d14c8a8f0b32ca008764f
+Q
+!src/main/java/pages/HomePage.java,9\6\9655b2a35fae75d92697b79cda62632f93f33e6e
+R
+"src/main/java/pages/LoginPage.java,4\b\4bdc7fe650a4170fd3332cdfc4dca51f7507f98b
+P
+ src/main/java/test/BaseTest.java,1\4\149c37bf7e0d7beae3aa455e793fc31bc6583914
+Q
+!src/main/java/pages/BasePage.java,e\2\e2e13e66e55a179dc9c969979a2c5c7949318f67
+Q
+!src/main/java/utils/Property.java,d\5\d5b31a9072906c23ab119f887a9bc4c304c41615
+V
+&src/main/java/utils/DriverFactory.java,8\c\8c15577c9d35837f7fc9d7f070dea1c51c5b48a1
